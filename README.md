@@ -20,9 +20,9 @@ The model performed well with the following with the following metrics but had *
 
 ___
 ### Code and Resources Used
-Python Version: 3.8
-Packages: pandas, numpy, matplotlib, seaborn, sklearn
-Dataset: [HR Analytics](kaggle.com/giripujar/hr-analytics)
+* Python Version: 3.8
+* Packages: pandas, numpy, matplotlib, seaborn, sklearn
+* Dataset: [HR Analytics](https://www.kaggle.com/giripujar/hr-analytics)
 
 ___
 ### Features
