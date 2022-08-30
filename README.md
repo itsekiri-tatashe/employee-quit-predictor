@@ -2,9 +2,21 @@
 
 * Created a model to predict if an employer would leave a company based off some data provided to us by the HR department of the company
 
+* Exploratory Data Analysis was applied to discover insights in the data
+
 * Got a Test Accuracy of **99%**
 
-* Used Drcision Trees as model, since problem was a Classification
+* Used a Decision Tree as model, since problem was a Classification
+___
+
+### Model Performance
+The model performed well with the following with the following metrics but had **53 False Positives** and **37 False Negatives**
+
+| Metric    | Score   | 
+|-----------|---------|
+| Accuracy  | 98.07   |
+| Precision | 95.22   |
+| Recall    | 96.74   |
 
 ___
 ### Code and Resources Used
@@ -36,38 +48,6 @@ I split the test and train set 70% and 30% respectively
 I used **Decision Tree** as the algorithm for the model
 ___
 
-### Model Performance
-The model performed well with the following with the following metrics but had **53 False Positives** and **37 False Negatives**
-* Test Accuracy - 98%
+#### Confusion Matrix
 
-| Specie  | precision | recall  | 
-|---------|-----------|---------|
-| 0       | 0.99      | 0.98    | 
-| 1       | 0.95      | 0.97    | 
-
-
-* Confusion Matrix
 ![Confusion Matrix](img/cmatrix.png)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
