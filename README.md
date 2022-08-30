@@ -12,7 +12,7 @@ ___
 ### Model Performance
 The model performed well with the following with the following metrics but had **53 False Positives** and **37 False Negatives**
 
-| Metric    | Score   | 
+| Metric    | Score (%)   | 
 |-----------|---------|
 | Accuracy  | 98.07   |
 | Precision | 95.22   |
